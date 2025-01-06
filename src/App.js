@@ -66,3 +66,4 @@ export default App;
 
 // 💡260. Section Overview
 // 💡261. Introduction to Redux (better commit text)
+// 💡262. Creating a Reducer: Bank Account
