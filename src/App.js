@@ -70,3 +70,4 @@ export default App;
 // 💡263. Creating a Redux Store
 // 💡264. Working with Action Creators
 // 💡265. Adding More State: Customer
+// 💡266. Professional Redux File Structure: State Slices
