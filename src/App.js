@@ -69,3 +69,4 @@ export default App;
 // 💡262. Creating a Reducer: Bank Account
 // 💡263. Creating a Redux Store
 // 💡264. Working with Action Creators
+// 💡265. Adding More State: Customer
