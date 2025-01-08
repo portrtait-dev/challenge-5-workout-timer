@@ -79,3 +79,4 @@ export default App;
 // 💡272. The Redux DevTools
 // 💡273. What is Redux Toolkit (RTK)? (non-code lecture)
 // 💡274. Creating the Store With RTK
+// 💡275. Creating the Account Slice
