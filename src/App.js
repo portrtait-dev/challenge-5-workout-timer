@@ -77,3 +77,4 @@ export default App;
 // 💡270. Redux Middleware and Thunks
 // 💡271. Making an API Call With Redux Thunks
 // 💡272. The Redux DevTools
+// 💡273. What is Redux Toolkit (RTK)? (non-code lecture)
