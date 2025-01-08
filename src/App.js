@@ -76,3 +76,4 @@ export default App;
 // 💡269. The Legacy Way of Connecting Components to Redux
 // 💡270. Redux Middleware and Thunks
 // 💡271. Making an API Call With Redux Thunks
+// 💡272. The Redux DevTools
