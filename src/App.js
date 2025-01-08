@@ -81,3 +81,4 @@ export default App;
 // 💡274. Creating the Store With RTK
 // 💡275. Creating the Account Slice
 // 💡276. Back to Thunks
+// 💡277. Creating the Customer Slice
